@@ -1,0 +1,13 @@
+__pycache__/
+# caches of generated wrapper VIs, scratch output
+build/gen*/
+build/demo_multiply*.vi
+build/styles_*.json
+.venv/
+# agent scratch / per-session server copies
+build/servers/
+build/test*/
+build/venv*/
+build/m4/
+dist/
+build/bugbash/
